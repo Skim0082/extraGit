@@ -41,7 +41,6 @@ import com.polarion.platform.security.ISecurityService;
 /**
  * @author Stefan Schuck
  * @version ALPHA $Revision$ $Date$
- * @wi drivepilot/DP-528 add java source to DP-528
  */
 public class CopyField implements IFunction {
 
@@ -67,6 +66,7 @@ public class CopyField implements IFunction {
 	}
 	
 	/**
+	 * @wi drivepilot/DP-528 add java source to DP-528
 	 * Method must be replaces by a less specific version
 	 * 
 	 * @param originalField
