@@ -44,7 +44,7 @@ public class AssignAuthor implements IFunction {
 
 	/*
 	*	@wi.implements elibrary/EL-209 add source code to work item EL-209
-	*
+	* add more comment for this code modification
 	*
 	*/
 	public void execute(ICallContext context, IArguments arguments) {
